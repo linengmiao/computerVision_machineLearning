@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481191922 source:/home/yalishanda/Desktop/alex/school/beelInterpretatie/labo4/main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

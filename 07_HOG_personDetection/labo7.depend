@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481893431 source:/home/yalishanda/Desktop/alex/school/beelInterpretatie/labo7/main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<fstream>
+
